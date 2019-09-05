@@ -13,7 +13,7 @@ El taller utilizará como base de trabajo la placa de prototipado Arduino Uno, v
 
 Si a lo mencionado le agregamos otros elementos como un costo sumamente accesible, la posibilidad de utilización en cualquiera de las plataformas populares (Linux, Windows, Mac, Android), y una enorme comunidad detrás, desarrollando de manera constante librerías y soluciones, obtenemos una combinación muy práctica y versátil para gran cantidad de aplicaciones.
 
-<p>En <a href="https://arduinohistory.github.io" target="_blank">arduinohistory.github.io</a> puede leerse información interesante sobre la historia de Arduino</p>
+<p><b>En <a href="https://arduinohistory.github.io" target="_blank">arduinohistory.github.io</a> puede leerse información interesante sobre la historia de Arduino</b>.</p>
 
 Hablamos de Arduino y hablamos de microcontroladores, qué es un microcontrolador?. Esencialmente es un circuito integrado programable, que incluye en su interior las 3 unidades funcionales primarias que estamos acostumbrados a observar en una computadora: [CPU (Unidad Central de Procesamiento)](https://es.wikipedia.org/wiki/Unidad_central_de_procesamiento), [memoria](https://es.wikipedia.org/wiki/Memoria_(inform%C3%A1tica)) y [periféricos de entrada y salida](https://es.wikipedia.org/wiki/Perif%C3%A9rico_(inform%C3%A1tica)).
 
@@ -55,4 +55,4 @@ En el caso del Atmega328P que equipa al Arduino Uno, disponemos de 14 pines digi
 
 ### La expansión del mundo Arduino
 
-Es importante tener en cuenta que el Arduino Uno es solo uno de los centenares de diseños de placas de desarrollo disponibles actualmente en el mercado, si consideramos toda la línea de Arduino ORIGINALES, sus CLONES y una gran cantidad de placas COMPATIBLES construidas por otras empresas pero programables utilizando el entorno de trabajo Arduino, dada su gran standarización y comodidad. Es por ello que se trata de una placa ideal para comenzar, e igualmente muy capaz para operar en diferentes tareas, pero actualmente la plataforma Arduino permite trabajar sobre gran variedad de proyectos, tanto sencillos como complejos, utilizando diferentes tipos de placas, con variadas capacidades y características.
+<b>El Arduino Uno con el que comenzaremos el aprendizaje, es solo uno de los centenares de diseños de placas de desarrollo disponibles actualmente en el mercado, si consideramos toda la línea de Arduino ORIGINALES, sus CLONES y una gran cantidad de placas COMPATIBLES construidas por otras empresas pero programables utilizando el entorno de trabajo Arduino, dada su gran standarización y comodidad. Es por ello que se trata de una placa ideal para comenzar, e igualmente muy capaz para operar en diferentes tareas, pero actualmente la plataforma Arduino permite trabajar sobre gran variedad de proyectos, tanto sencillos como complejos, utilizando diferentes tipos de placas, con variadas capacidades y características</b>.
