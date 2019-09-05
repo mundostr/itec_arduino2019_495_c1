@@ -1,0 +1,16 @@
+# **FUNDACION INSTITUTO TECNOLOGICO RAFAELA**
+## **Taller Arduino Escuela Técnica 495 2019 c2**
+
+<h3>10- Entornos de programación que utilizaremos</h3>
+
+<p>Existen actualmente gran variedad de utilidades para edición de código Arduino. De hecho, como veremos más adelante, podemos utilizar en realidad cualquier editor de nuestra preferencia (Visual Studio Code, Sublime Text, Atom, Eclipse, etc), y luego compilar dicho código para obtener el binario final que cargaremos al microcontrolador. No obstante, para comenzar es importante utilizar alguna herramienta cómoda y ágil, que nos permita progresar rápidamente en el aprendizaje, lo mismo sucede al momento de trasladar conocimientos en el aula a los alumnos, es por ello que iniciaremos empleando una programación visual por bloques.</p>
+
+* <b>MBlock Instalable</b>: se trata de un editor por bloques que utiliza de fondo el motor del conocido proyecto Scratch para su funcionamiento. Cuenta actualmente con 2 versiones en desarrollo (V3 y V5), en nuestro caso utilizaremos la V3, con una interfaz muy sencilla y práctica, que nos permitirá arrastrar bloques gráficos para armar la lógica de nuestro programa, mientras que el sistema traducirá internamente dichos bloques al código C / C++ necesario.
+
+El propio programa nos permitirá incluso cargar el código al Arduino Uno. Mblock se puede descargar gratuitamente desde <a href="https://mblock.cc" target="_blank">mblock.cc</a>, sección Download (elegir mBlock 3 para Windows 7+, también pueden seleccionarse otras plataformas). Otra alternativa es utilizarlo directamente online, aunque en nuestro caso trabajaremos solo con la versión instalable para mejor rendimiento. Su estructura gráfica es muy amena y sencilla, siendo una alternativa muy cómoda para trasladar luego el aprendizaje a los estudiantes.
+
+**Para mayores detalles, favor de leer los achivos PDF relacionados a MBlock que hemos cargado en la sección docs.**
+
+* <b>Arduino IDE</b>: este es el editor oficial de la plataforma, que puede descargarse e instalarse gratuitamente desde la página <a href="https://www.arduino.cc/" target="_blank">arduino.cc</a>. Nos permite programar directamente vía texto utilizando el lenguaje base de Arduino (C / C++) pero aprovechando un paquete de funciones predefinidas que agiliza el trabajo, pudiendo además compilar y subir el código desde el mismo entorno.
+
+El Arduino IDE ha crecido mucho en los últimos años, si bien aún tiene una serie de detalles por evolucionar, cuenta con un soporte predeterminado de placas que abarca una buena cantidad de Arduinos originales y compatibles, permitiendo además agregar soporte para otras familias de placas adicionales, como por ejemplo los populares módulos ESP8266, ESP32 Y STM32.
